@@ -185,7 +185,8 @@ img {
 .page{color: #d905ae;
 text-decoration: none;}
 .page:hover{color: white;}
-.viewpage{width: 50px;
+.viewpage{width: fit-content;
+block-size: fit-content;
 position: absolute;
 bottom: -30px;
 right: 60px;
